@@ -1,3 +1,7 @@
 messages/
 facebook-ruiaguiar125.zip
 output.txt
+model-*
+final-model.pth
+.ipynb_checkpoints/*
+chat_output.txt
